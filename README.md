@@ -18,3 +18,8 @@ To provide a simple and secure decentralized system where users can make purchas
 - Enable merchant dashboards and automated interest calculations.
 - Implement penalties or deadlines for late repayments.
 - Deploy front-end UI using Web3.js or Ethers.js.
+
+ ## contract detaile :- 0xbEC1EE5c30A6eC7136F52E396f223b154eAD3953
+ <img width="953" alt="image" src="https://github.com/user-attachments/assets/b0e85be2-1073-4105-83ff-9f0a16897114" />
+
+ 
